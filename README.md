@@ -11,7 +11,9 @@ Carpeta que contiene scripts de Javascript que representan bibliotecas de funcio
 
 # PluginCRMZTD
 
-Proyecto de  .NET para implementación de plugines que se pueden registrar en los entornos de Dynamics
+Proyecto de  [.NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462) para implementación de plugines que se pueden registrar en los entornos de Dynamics
+
+
 
 Paquetes Nuget para poder implementar las interfaces y objetos de Plugin desde el administrador de paquetes nuget de la solución
 
